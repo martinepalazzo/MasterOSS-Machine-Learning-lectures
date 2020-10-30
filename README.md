@@ -9,3 +9,4 @@ martin.palazzo@utt.fr
 - Chapter 02: Train-test split, Cross validation, Variance-Bias trade-off, Classification with Linear models (Perceptron, Logistic Regression) and Regression, Regularization with Ridge Regression.
 - Chapter 03: Dimensionality reduction with PCA. Introduction to Kernels, gram matrix, and Kernel-PCA.
 - Chapter 04: Classification with Support Vector Machines and Kernels.
+- Chapter 05: Artificial Neural Networks
