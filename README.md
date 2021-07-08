@@ -10,3 +10,5 @@ martin.palazzo@utt.fr
 - Chapter 03: Dimensionality reduction with PCA. Introduction to Kernels, gram matrix, and Kernel-PCA.
 - Chapter 04: Classification with Support Vector Machines and Kernels.
 - Chapter 05: Artificial Neural Networks
+
+Material free to use under GLP License. In case you use it please cite it.
