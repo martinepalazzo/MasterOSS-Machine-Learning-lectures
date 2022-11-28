@@ -8,8 +8,8 @@ martin.palazzo@utt.fr
 - Chapter 01: Decision with the Bayes rule. Parametric and Non Parametric cases.
 - Chapter 02: Train-test split, Cross validation, Variance-Bias trade-off, Classification with Linear models (Perceptron, Logistic Regression) 
 - Chapter 03: Regression, Regularization with Ridge Regression.
-- Chapter 04: Dimensionality reduction with PCA. Introduction to Kernels, gram matrix, and Kernel-PCA.
-- Chapter 05: Classification with Support Vector Machines and Kernels.
-- Chapter 06: Artificial Neural Networks
+- Chapter 04: Singular Value Decomposition (SVD) & Dimensionality reduction with PCA. Introduction to Kernels, gram matrix, and Kernel-PCA.
+- Chapter 05: Classification with Kernel Machines.
+- Chapter 06: Artificial Neural Networks.
 
 Material free to use under GLP License. In case you use it please cite it.
